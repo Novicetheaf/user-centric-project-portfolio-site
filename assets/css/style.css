@@ -1,16 +1,14 @@
 body{
     margin: 0;
+    font-family: 'Fjalla One', sans-serif;
 }
-
-.remove-padding{
-    padding-right: 0;
-    padding-left: 0;
-}
-
+/*--------------------------------Header section*/
 .header-content{
-    background-color: #303838;
-    width: 100%;
-    height: 50px;
+    background-color: rgba(255, 255, 255, 0.90);
+}
+
+nav.header-content.navbar.navbar-expand-md.navbar-light.fixed-top.mx-0{
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
 }
 
 #navbarSupportedContent{
@@ -24,7 +22,7 @@ body{
     color: white;
     
 }
-
+/*------------------------------------Main content*/
 .img-fluid{
     padding: 0;
     margin: 0;
@@ -39,16 +37,25 @@ body{
     margin: 0 auto;
 }
 
+p{
+    font-size: 1.3em;
+    text-decoration: none;
+}
+
+
+
 .background-white{
     background: white;
 }
 
-
+/*-------------------------------Footer*/
 footer{
     background-color: #fff;
     width: 100%;
     height: 150px;
 }
+
+/*-------------------------------Order of precednece*/
 
  @media only screen and (min-width: 770px) {
      .gradient-color{
@@ -57,3 +64,4 @@ footer{
      }
     
 }
+
