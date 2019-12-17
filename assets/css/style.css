@@ -64,9 +64,10 @@ p{
     font-size: 0.95em;
 }
 
-.web-apps-h3, .web-app-icons{
+.web-apps-h3{
     color: #007373;
     text-shadow: 5px 0 5px #b1afaf;
+    text-decoration-line: underline;
 }
 
 #web-apps-header{
@@ -78,8 +79,15 @@ p{
 .web-app-icons{
     font-size: 0.95em;
     padding-left: 5px;
+    text-shadow: 5px 0 5px #b1afaf;
 }
 
+/*--------------------------------------background image section*/
+
+#spacer-page-2{
+    background: url(/assets/images/spacer-image-2.jpg) no-repeat bottom left fixed;
+    height: 400px;
+}
 
 /*-------------------------------Footer*/
 footer{
