@@ -12,8 +12,8 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
 		integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
 	</script>
-    <!--Font Aw-->
-    <script src="https://kit.fontawesome.com/4a795257bd.js" crossorigin="anonymous"></script>
+	<!--Font Aw-->
+	<script src="https://kit.fontawesome.com/4a795257bd.js" crossorigin="anonymous"></script>
 	<!--Google fonts-->
 	<link href="https://fonts.googleapis.com/css?family=Fjalla+One&display=swap" rel="stylesheet">
 	<!--External CSS-->
@@ -21,160 +21,197 @@
 </head>
 
 <body>
-	<div class="container-fluid">
-		<!--Navigation Header Bar-->
-		<nav class="header-content navbar navbar-expand-md navbar-light fixed-top mx-0">
-			<a class="navbar-brand" href="index.html">Edmund O Callaghan</a>
-			<!--Hamburger Icon Button-->
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+	<!--Navigation Header Bar-->
+	<nav class="header-content navbar navbar-expand-md navbar-light fixed-top mx-0">
+		<a class="navbar-brand" href="#home-page">Edmund O Callaghan</a>
+		<!--Hamburger Icon Button-->
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbar-function-toggler" aria-expanded="false" aria-label="Hamburger Icon Toggler">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-			<!--Post Hamburger clicked or Desktop Screen-->
-			<div class="collapse navbar-collapse" id="navbarSupportedContent">
-				<ul class="navbar navbar-nav ml-auto">
-					<li>
-						<a class="nav-link" href="#">About</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Web Apps</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Skills</a>
-					</li>
-				</ul>
-			</div>
-		</nav>
-		<!--Home Page Section-->
-		<section id="home-page">
-			<img src="assets/images/laptop.jpg" class="img-fluid w-100" alt="laptop home page">
+		<!--Post Hamburger clicked or Desktop Screen-->
+		<div class="collapse navbar-collapse">
+			<ul class="navbar navbar-nav ml-auto">
+				<li>
+					<a class="nav-link" href="#nav-link-about">About</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#spacer-page">Web Apps</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Skills</a>
+				</li>
+			</ul>
+		</div>
+
+
+		<div class="container-fluid">
+	</nav>
+
+	<!--Home Page Section-->
+	<section id="home-page">
+		<img src="assets/images/laptop.jpg" class="img-fluid w-100" alt="laptop home page">
 	    </section>
-			<!--About Me Section-->
-			<section class="main-content background-white">
+		<!--About Me Section-->
+		<div id="nav-link-about">
+			<section id="about-me-content">
 				<div class="row mx-0">
-					<div class="col-sm-12 col-md-12 col-lg-12 col-xl-6 pt-5 gradient-color">
-						<h2>About Me</h2>
-						<p class="pt-5">I am currently studying Full Stack Web Development with Code Institute / Napier
+					<div class="col-sm-12 col-md-12 col-lg-12 col-xl-6 pt-5 background-text-color">
+						<h2 id="about">About Me</h2>
+						<p class="pt-5 about-me-p">I am currently studying Full Stack Web Development with Code
+							Institute / Napier
 							University.
 							I have worked as a QA Automation Engineer for 6 months, I have previously studied a lvl 5 in
 							software development. I have also studied web design before studying software development.
 							I have a great aptitude for software and how it works, from the mechanical to ones and
 							zeros, this line of work suits my interests and my future goals.
-							I love to work on web projects in my spare time, you can check out some of my projects to date
+							I love to work on web projects in my spare time, you can check out some of my projects to
+							date
 							in my web apps page. You can add me on linkedin or send me an email down below.
 						</p>
 
 					</div>
 					<div class="col-sm-12 col-md-12 col-lg-12 col-xl-6 col-xxl-6 px-0">
-						<img src="assets/images/about-me.jpg" class="img-fluid w-100" alt="laptop home page">
-                </div>
-					</div>
-			</section>
-
-			<!--Section Page-->
-			<section id="spacer-page"></section>
-
-			<!--Web Apps Section-->
-			<section class="main-content background-white">
-            <div class="row mx-0">
-					<div class="col-xs-12 col-lg-12 pt-5">
-						<h2 id="web-apps-header">WEB APPS</h2>
-            </div>
-
-
-				<div class="row mx-0">
-					<div class="col-xs-12 col-lg-3 pt-5">
-                        <a href="https://edmundoc.000webhostapp.com/tenisGame_EOC/tableTenisGame_EOC.html" target="_blank"><h3 class="web-apps-h3">TABLE TENIS  <i class="web-app-icons fas fa-table-tennis"></i></h3></a>
-						<p class="web-apps-p">
-                            This is a classic remake of the famous pong video game created in 1972 by Atari, enjoy!
-                            This has been created using javascript canvas, created only using pure javascript. 
-                            This shows one of many examples that can be created using the power of functional and procedural scripting.
-                        </p>
-					</div>
-                    <div class="col-xs-12 col-lg-3 pt-5">
-                        <img src="assets/images/tenis.jpg" class="img-fluid w-100" alt=""></img>
-                        
-                    </div>
-				
-					<div class="col-xs-12 col-lg-3 pt-5">
-						
-                         <a href="https://edmundoc.000webhostapp.com/toDoList_EOC/index.html" target="_blank"><h3 class="web-apps-h3">TO-DO LIST <i class="web-app-icons fas fa-clipboard-list"></i></h3></a>
-						<p class="web-apps-p">
-                            To-Do lists have been around since before the computer was created.
-                            Each day we have new tasks, that somtimes get unfulfilled and what better way to keep track of your daily task's, then with a To-Do list! 
-                        </p>
 
 					</div>
-                    <div class="col-xs-12 col-lg-3 pt-5">
-                        <img src="assets/images/to-do-list.jpg"class="img-fluid w-100" alt="to do list"></img>
-                        
-                    </div>
 				</div>
-                <div class="row mx-0">
-                    <div class="col-xs-12 col-lg-3 pt-5">
-						
-                        <a href="https://edmundoc.000webhostapp.com/colorGamePrj_EOC/colorGame.html" target="_blank"><h3 class="web-apps-h3">COLOUR GAME <i class="web-app-icons fas fa-gamepad"></i></h3></a>
-						<p class="web-apps-p">
-                            The colour game is based off HTML, CSS, and javascript's DOM manipulation.
-                            It uses RGB or Red,Green,Blue colors and displays the different color codes above, from 0 as in nill to 255 as in full colour and you have to guess which color is the correct one on the screen.
-                        </p>
-
-					</div>
-                    <div class="col-xs-12 col-lg-3 pt-5">
-                        <img src="assets/images/colours.jpg"class="img-fluid w-100" alt="colours"></img> 
-                        
-                    </div>
-                    <div class="col-xs-12 col-lg-3 pt-5">
-						
-                        <a href="#" target="_blank"><h3 class="web-apps-h3">COMING SOON<i class="web-app-icons fas fa-question-circle"></i></h3></a>
-						<p class="web-apps-p">
-                            Please Stay tuned, as I will be working on a project to fill this section soon!
-						</p>
-                        <p class="web-apps-p">
-                            Any ideas? Send me a mail below, or you can add me on linkedin.
-                        </p>
-
-				    </div>
-                    <div class="col-xs-12 col-lg-3 pt-5">
-                        <img src="assets/images/question.PNG"class="img-fluid w-100" alt="myserty"></img>
-                        
-                    </div>
-                 </div>
 			</section>
+		</div>
+		<!--Section Page-->
+		<section id="spacer-page"></section>
 
-            <!--Section Page-->
-			<section id="spacer-page-2"></section>
-
-            <!--Footer Section-->
-			<footer>
-				
-					<div class="row">
-						
-                        <div class="col-lg-12 footer-text">
-                           <a href="https://www.linkedin.com/in/edmund-crowley-o-callaghan/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                           
-                           <a href="https://github.com/Novicetheaf" target="_blank"><i class="fab fa-github-square"></i></a>
-
-                           <a href="mailto:edmundocall.eoc@gmail.com" target="_blank"><i class="far fa-envelope"></i></a>
-
-                           <p>© Edmund O Callaghan 2019</p>
+		<!--Web Apps Section-->
+		<div id="apps-background-image">
+				<section class="main-content background-white">
+					<div class="row mx-0">
+						<div class="col-xs-12 col-lg-12 pt-5">
+							<h2 id="web-apps-header">WEB APPS</h2>
 						</div>
-                        
-				
-			</footer>
-	</div>
 
-	<!--Should be set in order as follows: jquery, popper.js, then bootstrap.js-->
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
-	</script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
-		integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous">
-	</script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
-		integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous">
-	</script>
+
+						<div class="row mx-0">
+							<div class="col-xs-12 col-lg-3 pt-5">
+								<a href="https://edmundoc.000webhostapp.com/tenisGame_EOC/tableTenisGame_EOC.html"
+									target="_blank">
+									<h3 class="web-apps-h3">TABLE TENIS
+										<i class="web-app-icons fas fa-table-tennis"></i>
+									</h3>
+								</a>
+								<p class="web-apps-p">
+									This is a classic remake of the famous pong video game created in 1972 by Atari,
+									enjoy!
+									This has been created using javascript canvas, created only using pure javascript.
+									This shows one of many examples that can be created using the power of functional
+									and
+									procedural scripting.
+								</p>
+							</div>
+							<div class="col-xs-12 col-lg-3 pt-5 px-0">
+								<img src="assets/images/tenis.jpg" class="img-fluid w-100" alt=""></img>
+
+							</div>
+
+							<div class="col-xs-12 col-lg-3 pt-5">
+
+								<a href="https://edmundoc.000webhostapp.com/toDoList_EOC/index.html" target="_blank">
+									<h3 class="web-apps-h3">TO-DO LIST
+										<i class="web-app-icons fas fa-clipboard-list"></i>
+									</h3>
+								</a>
+								<p class="web-apps-p">
+									To-Do lists have been around since before the computer was created.
+									Each day we have new tasks, that somtimes get unfulfilled and what better way to
+									keep
+									track of your daily task's, then with a To-Do list!
+								</p>
+
+							</div>
+							<div class="col-xs-12 col-lg-3 pt-5 px-0">
+								<img src="assets/images/to-do-list.jpg"class="img-fluid w-100" alt="to do list"></img>
+
+							</div>
+						</div>
+						<div class="row mx-0">
+							<div class="col-xs-12 col-lg-3 pt-5">
+
+								<a href="https://edmundoc.000webhostapp.com/colorGamePrj_EOC/colorGame.html"
+									target="_blank">
+									<h3 class="web-apps-h3">COLOUR GAME <i class="web-app-icons fas fa-gamepad"></i>
+									</h3>
+								</a>
+								<p class="web-apps-p">
+									The colour game is based off HTML, CSS, and javascript's DOM manipulation.
+									It uses RGB or Red,Green,Blue colors and displays the different color codes above,
+									from
+									0 as in nill to 255 as in full colour and you have to guess which color is the
+									correct
+									one on the screen.
+								</p>
+
+							</div>
+							<div class="col-xs-12 col-lg-3 pt-5 px-0">
+								<img src="assets/images/colours.jpg"class="img-fluid w-100" alt="colours"></img>
+
+							</div>
+							<div class="col-xs-12 col-lg-3 pt-5">
+
+								<a href="#" target="_blank">
+									<h3 class="web-apps-h3">COMING
+										SOON<i class="web-app-icons fas fa-question-circle"></i>
+									</h3>
+								</a>
+								<p class="web-apps-p">
+									Please Stay tuned, as I will be working on a project to fill this section soon!
+								</p>
+								<p class="web-apps-p">
+									Any ideas? Send me a mail below, or you can add me on linkedin.
+								</p>
+
+							</div>
+							<div class="col-xs-12 col-lg-3 pt-5 px-0">
+								<img src="assets/images/question.PNG"class="img-fluid w-100" alt="myserty"></img>
+
+							</div>
+						</div>
+				</section>
+		</div>
+		<!--Section Page-->
+		<section id="spacer-page-2"></section>
+
+		<!--Footer Section-->
+		<footer>
+			<div class="container-fluid">
+
+				<div class="row">
+
+					<div class="col-lg-12 footer-text">
+						<a href="https://www.linkedin.com/in/edmund-crowley-o-callaghan/"
+							target="_blank"><i class="fab fa-linkedin"></i></a>
+
+						<a href="https://github.com/Novicetheaf"
+							target="_blank"><i class="fab fa-github-square"></i></a>
+
+						<a href="mailto:edmundocall.eoc@gmail.com" target="_blank"><i class="far fa-envelope"></i></a>
+
+						<p>© Edmund O Callaghan 2019</p>
+					</div>
+				</div>
+
+			</div>
+		</footer>
+		</div>
+
+		<!--Should be set in order as follows: jquery, popper.js, then bootstrap.js-->
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+			integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+		</script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+			integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous">
+		</script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+			integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous">
+		</script>
 </body>
 
 </html>

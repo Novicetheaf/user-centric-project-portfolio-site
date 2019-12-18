@@ -2,7 +2,12 @@ body{
 
     margin: 0;
     font-family: 'Fjalla One', sans-serif;
+    
+}
 
+.container-fluid{
+    padding: 0;
+    width: 0;
 }
 
 
@@ -13,12 +18,6 @@ body{
 
 nav.header-content.navbar.navbar-expand-md.navbar-light.fixed-top.mx-0{
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
-}
-
-#navbarSupportedContent{
-    width: 100%;
-    padding: 0;
-    margin: 0;
 }
 
 
@@ -32,14 +31,7 @@ nav.header-content.navbar.navbar-expand-md.navbar-light.fixed-top.mx-0{
     margin: 0;
 }
 
-.main-content{
 
-    background: rgb(2,0,36);
-    background: linear-gradient(354deg, rgb(235, 235, 235) 8%, rgba(158,158,158,1) 53%, rgba(17,35,38,1) 78%);
-    width: 100%;
-    height: auto;
-    margin: 0 auto;
-}
 
 p{
     font-size: 1.3em;
@@ -47,9 +39,20 @@ p{
 }
 
 
-.background-white{
-    background: white;
+/*---------------------------------------------- About me*/
+
+#about-me-content{
+    background: url(../images/plans.jpg)no-repeat right;
+    z-index: -1;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
+    
+.background-text-color{
+    background-color: rgba(255, 255, 255, 0.90);
+}
+
+
 
 /*--------------------------------------background image section*/
 
@@ -60,6 +63,14 @@ p{
     
 }
 /*--------------------------------------Web Apps section*/
+
+#apps-background-image{
+    background: url(../images/circuit-board.jpg) no-repeat;
+}
+
+.background-white{
+    background-color: rgba(255, 255, 255, 0.90);
+}
 
 .web-apps-p{
     font-size: 0.95em;
@@ -110,12 +121,11 @@ i {
 
 /*-------------------------------Order of precednece*/
 
- @media only screen and (min-width: 770px) {
-     .gradient-color{
-        background: rgb(255,255,255);
-        background: linear-gradient(94deg, rgba(255,255,255,1) 37%, rgba(245,245,245,1) 79%, rgba(242,242,244,1) 89%);
-     }
+@media only screen and (max-width: 1200px) {
+    #about-me-content{
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
     
 }
-
-
+ 
