@@ -65,8 +65,13 @@ p{
 /*--------------------------------------Web Apps section*/
 
 #apps-background-image{
-    background: url(../images/circuit-board.jpg) no-repeat;
+    background: url(../images/circuit-board.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
+
 
 .background-white{
     background-color: rgba(255, 255, 255, 0.90);
