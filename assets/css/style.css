@@ -107,6 +107,29 @@ p{
     width: 100%;
 }
 
+
+/*---------------------------------------skills section*/
+
+#skills-content{
+    background: url(../images/drawing-pad.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.circle-radius{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  font-size: 50px;
+  color: #000;
+  line-height: 500px;
+  text-align: center;
+  background-color: #cdcdd7;
+}
+
+
 /*-------------------------------Footer*/
 footer{
     background-color: #fff;
