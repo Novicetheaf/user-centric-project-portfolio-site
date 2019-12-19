@@ -44,8 +44,8 @@ p{
 #about-me-content{
     background: url(../images/plans.jpg)no-repeat right;
     z-index: -1;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 250px;
+    padding-bottom: 250px;
 }
     
 .background-text-color{
