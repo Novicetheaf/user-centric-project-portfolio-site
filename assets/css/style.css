@@ -120,6 +120,11 @@ p{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    height: 700px;
+}
+
+.skills-padding{
+    padding-top: 200px;
 }
 
 
