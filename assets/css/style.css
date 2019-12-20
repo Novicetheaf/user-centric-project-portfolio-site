@@ -44,8 +44,8 @@ p{
 #about-me-content{
     background: url(../images/plans.jpg)no-repeat right;
     z-index: -1;
-    padding-top: 250px;
-    padding-bottom: 250px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
     
 .background-text-color{
@@ -118,17 +118,6 @@ p{
     background-size: cover;
 }
 
-.circle-radius{
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  font-size: 50px;
-  color: #000;
-  line-height: 500px;
-  text-align: center;
-  background-color: #cdcdd7;
-}
-
 
 /*-------------------------------Footer*/
 footer{
@@ -146,6 +135,10 @@ i {
     text-align: center;
     padding-top: 55px;
 }
+/*---------------------------------------Modal Conact Me section*/
+
+
+ 
 
 /*-------------------------------Order of precednece*/
 
