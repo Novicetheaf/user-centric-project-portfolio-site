@@ -10,6 +10,8 @@ a bit about myself, my coding skills, forms of contacting me in my footer, via e
 
 A live demo can be viewed [here](https://novicetheaf.github.io/user-centric-project-take-two/ )
 
+![Desktop Demo](https://raw.githubusercontent.com/novicetheaf/user-centric-project-take-two/master/assets/images/preview.PNG "Desktop Demo")
+
 ## User Expierence
 
 ### User stories
@@ -30,7 +32,7 @@ The scope of my portfolio site is to showcase the most important and relevant in
 Key aspects of my structured layout of the sites navigation header bar is that you can access all key elements of the site all of the time, as the navbar follows you as you scroll. This allows the user to conact me easily, and navigate easily. In the footer I have links to my linkedin, github repo, and email, this allows the user to conact me through several mediums.
 
 ### Skeleton
-
+Add Wire Frames here!!!!!!!!!!!!
 
 ### Surface
 The silver, grey/black, and white colour scheme maintains a contemporary design, and a professional atmosphere, which is key for the targeted end-user.
@@ -57,4 +59,13 @@ For my conact me section I added a popup modal form, I also added conact me link
 If you try submiting the conact me form without a name, email, or description you will be notified that all 3 of them are required.
 
 ## Features to Implement
+In the future I would like to add another web app to the coming soon section in web apps. I would like to add script in order for the contact me section to send emails through to my email account on the modal conact me section.
 
+## Testing 
+
+## Deployment
+
+## Credits
+
+
+**This porject is for educational purposes.** 
