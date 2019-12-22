@@ -24,6 +24,8 @@ It was important that the user would find the site appealing and that they would
 My goal was to keep a clean and contemporary design, yet with the odd splah of colour, the web apps section image's has a lot of colours but this was neccessary in order to show a preview of the app that you would be going to, I believe that the this does not take away from the overall design of the sites scheme, and it is evident that this needs to be that way.
 
 ### Scope
+The scope of my portfolio site is to showcase the most important and relevant information regarding my skills, projects, and expierence, with this in mind the end-user would have a good idea as to where they should proceed next.
+
 
 
 ## Technologies
