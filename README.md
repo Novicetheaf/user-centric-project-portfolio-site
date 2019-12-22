@@ -12,10 +12,19 @@ A live demo can be viewed [here](https://novicetheaf.github.io/user-centric-proj
 
 ## User Expierence
 
+### User stories
+Any emplyers viewing my portfolio site will want to see a showcase of work to date, in order to get a better understanding of my skills to date, by means of project work. The site itself will also play a major reflection on my skills in design, consistency, and technologies.
+
+Any recruiters who visit my site will want to see if my skills and projects meet the requirments of any position they have or willl have available.
+
+### Strategy
 My main goal in this project was to create a modern and aesthetically pleasing website that was easy to use and navigate through the site.
 It was important that the user would find the site appealing and that they would find the information about myself quite easily, the flow of the site has to be all relative, take the images for instance they would match a flow that continues to complement each other.
 
-My goal was to keep a clean and contemporary design, yet with the odd splah of colour, the web apps section's images has a lot of colours but this was neccessary in order to show a preview of the app that you would be going to, I beleave that the this does not take away from the overall design of the sites scheme, and it is evident that this needs to be that way.
+My goal was to keep a clean and contemporary design, yet with the odd splah of colour, the web apps section image's has a lot of colours but this was neccessary in order to show a preview of the app that you would be going to, I believe that the this does not take away from the overall design of the sites scheme, and it is evident that this needs to be that way.
+
+### Scope
+
 
 ## Technologies
 
