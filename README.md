@@ -26,6 +26,9 @@ My goal was to keep a clean and contemporary design, yet with the odd splah of c
 ### Scope
 The scope of my portfolio site is to showcase the most important and relevant information regarding my skills, projects, and expierence, with this in mind the end-user would have a good idea as to where they should proceed next.
 
+### Structure
+Key aspects of my structured layout of the sites navigation header bar is that you can access all key elements of the site all of the time, as the navbar follows you as you scroll. This allows the user to conact me easily, and navigate easily. In the footer I have links to my linkedin, github repo, and email, this allows the user to conact me through several mediums.
+
 
 
 ## Technologies
