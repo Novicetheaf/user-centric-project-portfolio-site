@@ -29,7 +29,11 @@ The scope of my portfolio site is to showcase the most important and relevant in
 ### Structure
 Key aspects of my structured layout of the sites navigation header bar is that you can access all key elements of the site all of the time, as the navbar follows you as you scroll. This allows the user to conact me easily, and navigate easily. In the footer I have links to my linkedin, github repo, and email, this allows the user to conact me through several mediums.
 
+### Skeleton
 
+
+### Surface
+The silver, grey/black, and white colour scheme maintains a contemporary design, and a professional atmosphere, which is key for the targeted end-user.
 
 ## Technologies
 
