@@ -72,6 +72,9 @@ DELL Desktop, AMD Desktop, DELL Latitude E5470 Laptop, Fujitsu Q702 Ultra book, 
 ### Tested Resolutions: 
 320px x 640px to 1920px x 1080px - Note tested on 4K screen but images are not covering for 4K.
 
+### Tested Browsers:
+FireFox, Google Chrome, Edge.
+
 ### Responsive Flow Testing: 
 
 #### Expected outcome for Desktop(s):  
@@ -97,6 +100,9 @@ The Navbar hamburger becomes visible below 768px and the elements within web app
 Site Remains responsive throughout all devices that were tested. 
 #### Actual outcome:
 On Mobile screens the site responds the same as above.
+
+### Functional Testing: 
+
 
 
 ## Deployment
