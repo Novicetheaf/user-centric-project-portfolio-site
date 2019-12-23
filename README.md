@@ -63,11 +63,14 @@ In the future I would like to add another web app to the coming soon section in 
 
 ## Testing 
 Testing ID: test-user-centric-project-eoc
-### Tested by: Edmund O Callaghan
+### Tested by: 
+Edmund O Callaghan
 
-### Tested devices: DELL Desktop, AMD Desktop, DELL Latitude E5470 Laptop, Fujitsu Q702 Ultra book, ZTE Axon 7 Mobile, Iphone X, Iphone 6, Samsung S9.
+### Tested devices: 
+DELL Desktop, AMD Desktop, DELL Latitude E5470 Laptop, Fujitsu Q702 Ultra book, ZTE Axon 7 Mobile, Iphone X, Iphone 6, Samsung S9.
 
-### Tested Resolutions: 320px x 640px to 1920px x 1080px  *Note tested on 4K screen but images are not covering for 4K.*
+### Tested Resolutions: 
+320px x 640px to 1920px x 1080px - Note tested on 4K screen but images are not covering for 4K.
 
 ### Responsive Flow Testing: 
 
