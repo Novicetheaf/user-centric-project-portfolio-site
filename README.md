@@ -64,7 +64,10 @@ In the future I would like to add another web app to the coming soon section in 
 ## Testing 
 
 ## Deployment
+This website is hosted using Github pages, it has been deployed through the main branch. The live site will update upon new commits that are pushed to Github. The landing page is named index.html which is standard for any home page of a website. 
 
+In order to run the site locally, you can use the clone this site by using the following link in your terminal: 'git clone https://github.com/novicetheaf/user-centric-project-take-two.git'
+To remove any connections with Github repository use the  following in your terminal: `git remote rm origin`
 ## Credits
 
 ### Media
