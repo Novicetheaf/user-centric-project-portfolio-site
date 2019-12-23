@@ -62,6 +62,39 @@ If you try submiting the conact me form without a name, email, or description yo
 In the future I would like to add another web app to the coming soon section in web apps. I would like to add script in order for the contact me section to send emails through to my email account on the modal conact me section.
 
 ## Testing 
+Testing ID: test-user-centric-project-eoc
+### Tested by: Edmund O Callaghan
+
+### Tested devices: DELL Desktop, AMD Desktop, DELL Latitude E5470 Laptop, Fujitsu Q702 Ultra book, ZTE Axon 7 Mobile, Iphone X, Iphone 6, Samsung S9.
+
+### Tested Resolutions: 320px x 640px to 1920px x 1080px  *Note tested on 4K screen but images are not covering for 4K.*
+
+### Responsive Flow Testing: 
+
+#### Expected outcome for Desktop(s):  
+Elements spread to the edges of the page, and web apps sections images and paragraphs spread out and only stack once in two rows. Nav bar navigation elements appear and the hamburger dropdown icon becomes hidden. The scrolling effect of fixed images works correctly and apears to scroll upon scroll down through the site.
+Site Remains responsive throughout all devices that were tested. 
+#### Actual outcome:
+On desktop screens the site responds the same as above.
+
+#### Expected outcome for Laptop(s):  
+Elements behave the same as on desktop, other then the images that become more streched, yet not losing any pixel quailty of the images.
+Site Remains responsive throughout all devices that were tested. 
+#### Actual outcome:
+On Laptop screens the site responds the same as above.
+
+#### Expected outcome for Tablet(s):  
+Elements behave the same as on latop, other then the images in web apps section become enlarged and take up an entire row, and the description for the web apps stack above the images. The divs for about me and skills section take up the full width of the screen, so the background images become cut from the side.
+Site Remains responsive throughout all devices that were tested. 
+#### Actual outcome:
+On Tablet screens the site responds the same as above.
+
+#### Expected outcome for Mobile(s):  
+The Navbar hamburger becomes visible below 768px and the elements within web apps become stacked and the images reduce in size.
+Site Remains responsive throughout all devices that were tested. 
+#### Actual outcome:
+On Mobile screens the site responds the same as above.
+
 
 ## Deployment
 This website is hosted using Github pages, it has been deployed through the main branch. The live site will update upon new commits that are pushed to Github. The landing page is named index.html which is standard for any home page of a website. 
