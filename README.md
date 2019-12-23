@@ -68,12 +68,12 @@ In the future I would like to add another web app to the coming soon section in 
 ## Credits
 
 ### Media
-I used [pixabay] ( https://pixabay.com/) for all my images in my site.
+I used [pixabay](https://pixabay.com/) for all my images in my site.
 
 ### Acknowledgements 
-Modal Contact Form outer sections Reference can be found [here] (https://mdbootstrap.com/docs/jquery/modals/forms/)
+Modal Contact Form outer sections Reference can be found [here](https://mdbootstrap.com/docs/jquery/modals/forms/)
 
-any Bootstrap code I needed to look up for reference purposes, I used [bootstrap.com] (https://getbootstrap.com/).
+any Bootstrap code I needed to look up for reference purposes, I used [bootstrap.com](https://getbootstrap.com/).
 
 Reference to Stephen @ code Institute who helped me with a image cover using css.
 
