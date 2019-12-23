@@ -10,7 +10,7 @@ a bit about myself, my coding skills, forms of contacting me in my footer, via e
 
 A live demo can be viewed [here](https://novicetheaf.github.io/user-centric-project-take-two/ )
 
-![Desktop Demo](https://github.com/Novicetheaf/user-centric-project-take-two/blob/b0a038d4a9d4224c26bff4c0c4130f89fe28d472/assets/images/preview.PNG "Desktop Demo")
+![Desktop Demo](https:///workspace/user-centric-project-take-two/assets/images/preview.PNG "Desktop Demo")
 
 ## User Expierence
 
@@ -67,5 +67,14 @@ In the future I would like to add another web app to the coming soon section in 
 
 ## Credits
 
+### Media
+I used [pixabay] ( https://pixabay.com/) for all my images in my site.
+
+### Acknowledgements 
+Modal Contact Form outer sections Reference can be found [here] (https://mdbootstrap.com/docs/jquery/modals/forms/)
+
+any Bootstrap code I needed to look up for reference purposes, I used [bootstrap.com] (https://getbootstrap.com/).
+
+Reference to Stephen @ code Institute who helped me with a image cover using css.
 
 **This porject is for educational purposes.** 

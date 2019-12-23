@@ -68,10 +68,12 @@ p{
 
 #apps-background-image{
     background: url(../images/circuit-board.jpg) no-repeat center center fixed;
+    /*--Reference to Stephen_ci who gave me this css snippet--*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    /*--Closing Reference--*/
 }
 
 
@@ -118,10 +120,12 @@ p{
 
 #skills-content{
     background: url(../images/drawing-pad.jpg) no-repeat center center fixed;
+    /*--Reference to Stephen_ci who gave me this css snippet--*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    /*-- Closing Referenc*/
     height: 700px;
 }
 
