@@ -66,14 +66,13 @@ p{
 }
 /*--------------------------------------Web Apps section*/
 
+/*--Reference to Stephen_ci who gave me this css snippet--*/
 #apps-background-image{
     background: url(../images/circuit-board.jpg) no-repeat center center fixed;
-    /*--Reference to Stephen_ci who gave me this css snippet--*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    /*--Closing Reference--*/
 }
 
 
@@ -120,12 +119,10 @@ p{
 
 #skills-content{
     background: url(../images/drawing-pad.jpg) no-repeat center center fixed;
-    /*--Reference to Stephen_ci who gave me this css snippet--*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    /*-- Closing Referenc*/
     height: 700px;
 }
 
@@ -163,10 +160,22 @@ i {
         padding-bottom: 0;
     }
 }
+/*--------------------------------------Text size reduced for small mobile devices*/
+@media only screen and (max-width: 350px){
+    #text-resizing-skills {
+        font-size: 0.80em;
+    }
+}
+@media only screen and (max-width: 350px){
+    #about-me-content {
+        font-size: 0.80em;
+    }
+}s
 /*-----------------------------------Sets padding for desktop view of web apps section*/
 @media only screen and (min-width: 993px){
     .web-apps-padding{
         padding-right: 20px;
     }
 }
+
 
