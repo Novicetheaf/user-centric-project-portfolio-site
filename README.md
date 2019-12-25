@@ -103,6 +103,50 @@ On Mobile screens the site responds the same as above.
 
 ### Functional Testing: 
 
+### Elements Tested: 
+Navbar section, Web apps section, footer section and conact modal form.
+
+#### Navbar section:
+
+##### Expected outcome for Navbar logo home hyperlink:  
+User clicks home logo and is brought to the home page.
+##### Actual outcome:
+same as above
+
+##### Expected outcome for Navbar about hyperlink:  
+User clicks about link and is brought to the about page.
+##### Actual outcome:
+same as above
+
+##### Expected outcome for Navbar web apps hyperlink:  
+User clicks web apps link and is brought to the web apps page.
+##### Actual outcome:
+same as above
+
+##### Expected outcome for Navbar skills hyperlink:  
+User clicks skills link and is brought to the skills page.
+##### Actual outcome:
+same as above
+
+##### Expected outcome for Navbar conact hyperlink:  
+User clicks conact link and a modal conact form pops up.
+##### Actual outcome:
+same as above
+
+#### Web apps section:
+
+##### Expected outcome for web app links, which include table tenis, colour game, and to-do list.
+End-user clicks on the hyperlink name of the application, and is brought to an external link containing the application, the portfolio site remains open and no progress is lossed.
+##### Actual outcome:
+Outcome is the same as above. 
+
+#### Footer section:
+
+##### Expected outcome for icon hyperlinks in footer, which include linkedin, Github, and email.
+End-user clicks on linkedin or github icon in footer section and is brought to an external link, while keeping the site open. If the user clicks on the email icon it pops up an external application such as gmail via mobile device, or outlook via windows devices, depending on what email application you have installed.
+##### Actual outcome: 
+Outcome is the same as above.
+
 
 
 ## Deployment
