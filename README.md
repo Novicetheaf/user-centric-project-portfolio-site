@@ -147,6 +147,14 @@ End-user clicks on linkedin or github icon in footer section and is brought to a
 ##### Actual outcome: 
 Outcome is the same as above.
 
+#### Modal contact form section:
+
+##### Expected outcome for conact modal form:
+User clicks contact link and modal form pops up, then user proceeds to enter their email address, subject and description, if the user enters a valid email address and does not leave subject and description blank then they can proceed to click send without a required messages appearing. 
+
+Note: this was also tested for invalid or undesired inputs, when the user enters an invalid email they will be notified that the email is incomplete or missing an element. If the user leaves either the subject field or the description field blank they will be notified that they need to fill said field.
+##### Actual outcome: 
+Outcome is the same as above.
 
 
 ## Deployment
