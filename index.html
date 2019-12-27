@@ -52,7 +52,7 @@
 
 
 	<!--Home Page Section-->
-	<section id="home-page">
+	<div id="home-page">
 
 		<div class="row mx-0">
 			<div class="col-xs-12 col-lg-12 px-0">
@@ -62,7 +62,7 @@
 			</div>
 			
 
-	</section>
+	</div>
 	<!--About Me Section-->
 	<div id="nav-link-about">
 		<div id="about-me-content">
@@ -192,7 +192,7 @@
 			<div class="row mx-0 skills-padding">
 				<div class="col-sm-12 col-md-12 col-lg-12 col-xl-6 offset-lg-0 offset-xl-3 py-5 background-text-color">
 					<h2 class="about px-5">Skills</h2>
-					<p class="px-5 about-me-p">
+					<p class="px-5 about-me-p"></p>
                         <ul id="text-resizing-skills">
                             <li>I have worked with C# Selenium for 6 months to create end to end tests, smoke tests and gui based integration tests.</li>
                             <li>I have worked with javascript for DOM in order to interact with elements on the page for tests & for my colour game project.</li>
@@ -244,17 +244,17 @@
                     <div class="modal-body mx-3">
                         <form>
                             <div class="form-group">
-                                <label for="exampleInputEmail1">Email address</label>
-                                <input type="email" class="form-control" aria-describedby="emailHelp" required>
+                                <label for="input-email">Email address</label>
+                                <input type="email" class="form-control" id="input-email" aria-describedby="emailHelp" required>
                                 <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                             </div>
                             <div class="form-group">
-                                <label for="exampleInputText">Subject</label>
-                                <input type="text" class="form-control" required>
+                                <label for="input-text">Subject</label>
+                                <input type="text" class="form-control" id="input-text" required>
                             </div>
                             <div class="form-group">
-                                <label for="exampleInputText">Message</label>
-                                <textarea class="form-control" required row="6"></textarea>
+                                <label for="input-description">Message</label>
+                                <textarea class="form-control" id="input-description"></textarea>
                             </div>
                             <button type="submit" class="btn btn-dark">Send</button>
                         </form>
