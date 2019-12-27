@@ -45,8 +45,7 @@ p{
 #about-me-content{
     background: url(../images/plans.jpg)no-repeat right;
     z-index: -1;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    font-size: 0.80em;
 }
     
 .background-text-color{
@@ -74,7 +73,7 @@ p{
     -o-background-size: cover;
     background-size: cover;
 }
-
+/*--------------------------------------Closing reference*/
 
 .background-white{
     background-color: rgba(255, 255, 255, 0.90);
@@ -106,15 +105,6 @@ p{
     text-shadow: 5px 0 5px #b1afaf;
 }
 
-/*--------------------------------------background image section*/
-
-#spacer-page-2{
-    background: url(../images/spacer-image-2.jpg) no-repeat bottom left fixed;
-    height: 400px;
-    width: 100%;
-}
-
-
 /*---------------------------------------skills section*/
 
 #skills-content{
@@ -128,6 +118,10 @@ p{
 
 .skills-padding{
     padding-top: 160px;
+}
+
+#text-resizing-skills {
+        font-size: 0.80em;
 }
 
 
@@ -147,31 +141,30 @@ i {
     text-align: center;
     padding-top: 55px;
 }
-/*---------------------------------------Modal Conact Me section*/
-
-
- 
-
 
 /*--------------------------------------Sets padding to Zero for top & bottom of about me section*/
-@media only screen and (max-width: 450px){
+@media only screen and (min-width: 850px){
     #about-me-content {
-        padding-top: 0;
-        padding-bottom: 0;
+        padding-top: 100px;
+        padding-bottom: 100px;
     }
 }
-/*--------------------------------------Text size reduced for small mobile devices*/
-@media only screen and (max-width: 350px){
+/*--------------------------------------increase text size after 350px*/
+@media only screen and (min-width: 350px){
     #text-resizing-skills {
-        font-size: 0.80em;
+        font-size: 1.00em;
     }
-}
-@media only screen and (max-width: 350px){
     #about-me-content {
-        font-size: 0.80em;
+        font-size: 1.00em;
+    }
+/*--------------------------------------adding bg-spacer image after 350px*/
+    #spacer-page-2{
+        background: url(../images/spacer-image-2.jpg) no-repeat bottom left fixed;
+        height: 400px;
+        width: 100%;
     }
 }
-/*-----------------------------------Sets padding for desktop view of web apps section*/
+/*-----------------------------------Sets padding for medium up view of web apps section*/
 @media only screen and (min-width: 993px){
     .web-apps-padding{
         padding-right: 20px;
@@ -184,12 +177,5 @@ i {
         padding-right: 10px;
     } 
 }
-/*---------------------------------------------Remove spacer image for mobile*/
-@media only screen and (max-width: 350px){
-    #spacer-page-2{
-        background-image: none;
-        height: 0;
-        width: 0;
-    } 
-}
+
 
