@@ -127,7 +127,7 @@ p{
 }
 
 .skills-padding{
-    padding-top: 200px;
+    padding-top: 160px;
 }
 
 
@@ -184,5 +184,12 @@ i {
         padding-right: 10px;
     } 
 }
-
+/*---------------------------------------------Remove spacer image for mobile*/
+@media only screen and (max-width: 350px){
+    #spacer-page-2{
+        background-image: none;
+        height: 0;
+        width: 0;
+    } 
+}
 
