@@ -32,8 +32,13 @@ The scope of my portfolio site is to showcase the most important and relevant in
 Key aspects of my structured layout of the sites navigation header bar is that you can access all key elements of the site all of the time, as the navbar follows you as you scroll. This allows the user to conact me easily, and navigate easily. In the footer I have links to my linkedin, github repo, and email, this allows the user to conact me through several mediums.
 
 ### Skeleton
-Add Wire Frames here!!!!!!!!!!!!
 [Landing Page wireframe](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/wireframes/home-page-wireframe.pdf)
+
+[About Page wireframe](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/wireframes/home-page-wireframe.pdf)
+
+[Web Apps Page wireframe](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/wireframes/web-apps-page-wireframe.pdf)
+
+[Skills Page wireframe](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/wireframes/skills-page-wireframe.pdf)
 
 ### Surface
 The silver, grey/black, and white colour scheme maintains a contemporary design, and a professional atmosphere, which is key for the targeted end-user.
@@ -175,4 +180,4 @@ any Bootstrap code I needed to look up for reference purposes, I used [bootstrap
 
 Reference to Stephen @ code Institute who helped me with a image cover using css.
 
-**This porject is for educational purposes.** 
+**This project is for educational purposes.** 
