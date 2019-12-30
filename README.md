@@ -166,7 +166,7 @@ Outcome is the same as above.
 
 
 ## Deployment
-This website is hosted using Github pages, it has been deployed through the main branch. The live site will update upon new commits that are pushed to Github. The landing page is named index.html which is standard for any home page of a website. 
+This website is hosted using Github pages, this can be found if you click settings in the repo, then scroll down until you reach the heading github pages. The source section will say none on the dropdown button,  change this by clicking on it and choose master branch. At this point it has been deployed through the main branch. The live site will update upon new commits that are pushed to Github. The landing page is named index.html which is standard for any home page of a website. 
 
 In order to run the site locally, you can use the clone this site by using the following link in your terminal: 'git clone https://github.com/novicetheaf/user-centric-project-take-two.git'
 To remove any connections with Github repository use the  following in your terminal: `git remote rm origin`
