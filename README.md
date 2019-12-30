@@ -33,6 +33,7 @@ Key aspects of my structured layout of the sites navigation header bar is that y
 
 ### Skeleton
 Add Wire Frames here!!!!!!!!!!!!
+[Landing Page wireframe](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/wireframes/home-page-wireframe.pdf)
 
 ### Surface
 The silver, grey/black, and white colour scheme maintains a contemporary design, and a professional atmosphere, which is key for the targeted end-user.
