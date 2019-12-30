@@ -40,6 +40,8 @@ Key aspects of my structured layout of the sites navigation header bar is that y
 
 [Skills Page wireframe](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/wireframes/skills-page-wireframe.pdf)
 
+[Footer Section wireframe](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/wireframes/footer-section-wireframe.pdf)
+
 ### Surface
 The silver, grey/black, and white colour scheme maintains a contemporary design, and a professional atmosphere, which is key for the targeted end-user.
 
