@@ -83,6 +83,11 @@ DELL Desktop, AMD Desktop, DELL Latitude E5470 Laptop, Fujitsu Q702 Ultra book, 
 ### Tested Browsers:
 FireFox, Google Chrome, Edge.
 
+### Code validation Testing:
+[CSS Validation](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/code-validation/css-validation.PNG)
+
+[HTML Validation](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/code-validation/html-validation.PNG)
+
 ### Responsive Flow Testing: 
 
 #### Expected outcome for Desktop(s):  
