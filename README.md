@@ -32,6 +32,8 @@ The scope of my portfolio site is to showcase the most important and relevant in
 Key aspects of my structured layout of the sites navigation header bar is that you can access all key elements of the site all of the time, as the navbar follows you as you scroll. This allows the user to conact me easily, and navigate easily. In the footer I have links to my linkedin, github repo, and email, this allows the user to conact me through several mediums.
 
 ### Skeleton
+[Mobile Design wireframe](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/wireframes/mobile-design-wireframe.pdf)
+
 [Landing Page wireframe](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/wireframes/home-page-wireframe.pdf)
 
 [About Page wireframe](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/wireframes/home-page-wireframe.pdf)
