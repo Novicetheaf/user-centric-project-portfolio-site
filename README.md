@@ -12,7 +12,7 @@ A live demo can be viewed [here](https://novicetheaf.github.io/user-centric-proj
 
 ![Desktop Demo](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/assets/images/preview.PNG?raw=true "Desktop Demo")
 
-## User Expierence
+## User Experience
 
 ### User stories
 Any emplyers viewing my portfolio site will want to see a showcase of work to date, in order to get a better understanding of my skills to date, by means of project work. The site itself will also play a major reflection on my skills in design, consistency, and technologies.
