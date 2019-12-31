@@ -88,6 +88,11 @@ FireFox, Google Chrome, Edge.
 
 [HTML Validation](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/code-validation/html-validation.PNG)
 
+### User stories
+For my user stories testing, I had to put myself in the shoes of each end user, recruiters and employers.
+As a recruiter or employer I want to find out with quick succession, whether this candidate has the required skills for the job spec and relevant experience. When you arrive at the site you are greeted with a professional concise website, this showcases good design, which is what the end-user is looking for. when you scroll down from the home page to about me you'll be given a brief description of my recent experience. In order to see some of my capabilities the user can go to the web apps section and they will get a feel for what I can do. The user can scroll further down to skills and see the most important and relevant skills I have to date.
+With regards to the above mentioned user stories the outcome for this test was successful.
+
 ### Responsive Flow Testing: 
 
 #### Expected outcome for Desktop(s):  
