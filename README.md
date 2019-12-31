@@ -84,9 +84,9 @@ DELL Desktop, AMD Desktop, DELL Latitude E5470 Laptop, Fujitsu Q702 Ultra book, 
 FireFox, Google Chrome, Edge.
 
 ### Code validation Testing:
-[CSS Validation](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/code-validation/css-validation.PNG)
+[CSS Validation](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/assets/code-validation/css-validation.PNG)
 
-[HTML Validation](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/code-validation/html-validation.PNG)
+[HTML Validation](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/assets/code-validation/html-validation.PNG)
 
 ### User stories
 For my user stories testing, I had to put myself in the shoes of each end user, recruiters and employers.
