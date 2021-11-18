@@ -8,7 +8,7 @@ a bit about myself, my coding skills, forms of contacting me in my footer, via e
 
 ## Demo
 
-A live demo can be viewed [here](https://novicetheaf.github.io/user-centric-project-take-two/ )
+A live demo can be viewed [here](https://novicetheaf.github.io/user-centric-project-portfolio-site/ )
 
 ![Desktop Demo](https://github.com/novicetheaf/user-centric-project-take-two/blob/master/assets/images/preview.PNG?raw=true "Desktop Demo")
 
